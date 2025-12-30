@@ -1,6 +1,8 @@
-# Causal Flight Cancellation Prediction
+# 🌬️ Causal Winds
 
-A machine learning project that predicts flight cancellations and attributes them to specific causes using causal inference methods.
+*Predicting flight cancellations and attributing them to specific causes using causal inference methods.*
+
+A machine learning project that goes beyond correlation to identify the true causal relationships behind flight cancellations.
 
 ## Problem Statement
 
